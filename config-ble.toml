@@ -1,4 +1,6 @@
 baseURL = 'https://anarkis.github.io/hugo-test'
-languageCode = 'en-us'
+languageCode = 'es-es'
 title = 'My New Hugo Site'
 theme = 'hugo-theme-stack'
+
+defaultContentLanguage = es
