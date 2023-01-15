@@ -5,6 +5,9 @@ draft: false
 image: calidad-aire.jpg
 categories:
     - terminado
+tags:
+    - sin terminar
+    - sin empezar
 ---
 
 - Anunciado **10/03/2022** [Nota de prensa](https://centromedios.murcia.es/PUBLICO/NotaPrensa/Default.aspx?pIdPagina=25&pIdNoticia=62334)
